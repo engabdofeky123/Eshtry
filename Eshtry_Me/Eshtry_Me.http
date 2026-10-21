@@ -1,0 +1,6 @@
+@Eshtry_Me_HostAddress = http://localhost:5168
+
+GET {{Eshtry_Me_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
